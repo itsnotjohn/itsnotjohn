@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o João!  
 
-<!--
-**itsnotjohn/itsnotjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Sobre mim
+- Backend é vida.  
+- Frontend é castigo.  
+- Energético é dependência.  
+- Deploy na sexta? **Jamais.**  
+- API bem feita > interface bonita.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Tecnologias que me mantêm (quase) são:
+- C# (meu amor e minha desgraça)
+- Node.js (porque dormir é opcional)  
+- PostgreSQL (porque MySQL é pra quem gosta de sofrer)  
+- REST (às vezes RESTless)  
+- JSON (meu idioma nativo)  
+- Docker (quando ele resolve funcionar)  
+
+---
+
+## 📈 Status
+🚀 Em constante evolução (e refatoração infinita).  
+🛠️ Corrigindo bugs que eu jurei que não existiam.  
+🥴 Sobrevivendo com `try { } catch { }`.  
+
+---
+
+## 🧑‍💻 Contato
+- 📫 Pode tentar me achar... mas provavelmente tô no terminal.  
+- 💬 Se for pra falar de front, já adianto: **/ban**  
+
+---
