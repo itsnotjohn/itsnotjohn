@@ -21,13 +21,6 @@
 
 ---
 
-## 📈 Status
-🚀 Em constante evolução (e refatoração infinita).  
-🛠️ Corrigindo bugs que eu jurei que não existiam.  
-🥴 Sobrevivendo com `try { } catch { }`.  
-
----
-
 ## 🧑‍💻 Contato
 - 📫 Pode tentar me achar... mas provavelmente tô no terminal.  
 - 💬 Se for pra falar de front, já adianto: **/ban**  
